@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="vineet">Vineet</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="amount">Amount</string>
+    <string name="send_money">Send Money</string>
+    <string name="success_payment">Success Payment</string>
+    <string name="decline_payment">Decline Payment</string>
+</resources>
